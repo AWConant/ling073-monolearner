@@ -1,7 +1,6 @@
 import os
 import sys
-import yaml
-import glob
+import yaml # a.k.a. PyYAML
 import shutil
 import subprocess
 
