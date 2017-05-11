@@ -1,0 +1,7 @@
+---
+corpus_name: es_10000
+direction: es-en
+path_to_pair: /home/hargle/Source/apertium/trunk/apertium-en-es/
+bilingual_dict: es-en-autobil.bin 
+binary_model: /home/hargle/Source/ling073-monolearner/en_10000.blm
+...
